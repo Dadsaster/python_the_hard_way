@@ -1,5 +1,6 @@
 from sys import argv
 
+
 # "unpacks" argv (argument variable)
 script, first, second, third = argv
 
